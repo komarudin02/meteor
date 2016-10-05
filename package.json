@@ -2,7 +2,7 @@
   "name": "meteor",
   "private": true,
   "scripts": {
-    "start": "meteor run"
+    "start": "npm install && meteor run"
   },
   "dependencies": {
     "angular": "^1.5.8",
